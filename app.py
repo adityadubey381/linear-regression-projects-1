@@ -6,7 +6,7 @@ import streamlit as st
 import plotly.express as px
 
 #Data
-df = pd.read_csv(r"C:\Users\Aditya kumar Dubey\OneDrive\Documents\Desktop\Data\SLR_placement.csv")
+df = pd.read_csv(r"SLR_placement.csv")
 
 st.title("This is my first Linear regression project.")
 
